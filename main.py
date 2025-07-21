@@ -14,7 +14,7 @@ docs_url = {
     "openai": "https://platform.openai.com/docs/api-reference",
     "anthropic": "https://docs.anthropic.com/en/api/reference",
     "groq": "https://docs.groq.com/api-reference",
-    "mistral": "https://docs.mistral.ai/api-reference",
+    "mistral": "https://docs.mistral.ai/api-reference", 
 }
 
 def search_web():
@@ -32,7 +32,7 @@ def get_docs():
 
 
 def main():
-    print("Hello from documentation!")
+    print("Hello from documentation page!")
 
 
 if __name__ == "__main__":
